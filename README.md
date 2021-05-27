@@ -24,5 +24,3 @@ O candidato deve ser implementar 2 desafios:
  
 
     
-Após terminar o candidato deverá versionar a prova no git hub e nos mandar o repositório. 
-* Enviar para: lhsilva@travelexbank.com.br, msales@travelexbank.com.br, rlisboa@travelexbank.com.br
